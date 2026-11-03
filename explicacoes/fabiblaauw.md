@@ -1,0 +1,5 @@
+O que é um pull request?
+Um pull request, no GitHub, pode ser comparado ao envio de uma minuta de contrato com sugestões marcadas pelo controle de alterações, o chamado redline.
+Diante disso, imagine que você recebe um contrato, altera algumas cláusulas e devolve para a outra parte analisar. Ela consegue ver o que você acrescentou e retirou, comentar os trechos e pedir ajustes antes de aceitar a nova redação.
+O pull request funciona de forma parecida. Primeiro, você faz uma cópia do projeto na sua conta, o chamado fork, e altera os arquivos nela, sem mexer no original. Depois, propõe essas alterações aos responsáveis pelo projeto, que conseguem ver exatamente o que mudou, linha por linha. Se a proposta for aceita, as alterações são incorporadas ao projeto original. Se for recusada, o original continua como estava, e as alterações ficam só na sua cópia.
+Assim, enquanto a issue serve para registrar uma dúvida, um problema ou uma sugestão, o pull request apresenta as alterações já feitas para análise.
